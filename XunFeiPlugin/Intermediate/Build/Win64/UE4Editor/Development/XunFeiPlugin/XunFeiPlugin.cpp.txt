@@ -1,0 +1,2 @@
+G:\UnrealProjects\TestSpeechPlugin\Plugins\XunFeiPlugin\Intermediate\Build\Win64\UE4Editor\Development\XunFeiPlugin\Definitions.XunFeiPlugin.h
+G:\UnrealProjects\TestSpeechPlugin\Plugins\XunFeiPlugin\Source\XunFeiPlugin\Public\XunFeiPlugin.h

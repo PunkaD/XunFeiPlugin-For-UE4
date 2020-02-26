@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.XunFeiPlugin.cpp.obj": [
+			"SpeechActor.cpp.obj",
+			"SpeechRecoginzer.cpp.obj",
+			"SpeechTask.cpp.obj",
+			"WinRec.cpp.obj",
+			"XunFeiPlugin.cpp.obj",
+			"XunFeiSpeech.cpp.obj"
+		],
+		"Module.XunFeiPlugin.gen.cpp.obj": [
+			"SpeechActor.gen.cpp.obj",
+			"XunFeiPlugin.init.gen.cpp.obj"
+		]
+	}
+}
